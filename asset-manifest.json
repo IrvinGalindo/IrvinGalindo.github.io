@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45348b7d.chunk.css",
+    "main.js": "/static/js/main.a59e9c0f.chunk.js",
+    "main.js.map": "/static/js/main.a59e9c0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b02c80.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b02c80.js.map",
+    "static/js/2.c81f8de8.chunk.js": "/static/js/2.c81f8de8.chunk.js",
+    "static/js/2.c81f8de8.chunk.js.map": "/static/js/2.c81f8de8.chunk.js.map",
+    "static/js/3.a941cc15.chunk.js": "/static/js/3.a941cc15.chunk.js",
+    "static/js/3.a941cc15.chunk.js.map": "/static/js/3.a941cc15.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.45348b7d.chunk.css.map": "/static/css/main.45348b7d.chunk.css.map",
+    "static/js/2.c81f8de8.chunk.js.LICENSE.txt": "/static/js/2.c81f8de8.chunk.js.LICENSE.txt",
+    "static/media/analitical.27f5bf4f.svg": "/static/media/analitical.27f5bf4f.svg",
+    "static/media/angular.1fd4bbed.svg": "/static/media/angular.1fd4bbed.svg",
+    "static/media/communication.f8bc4142.svg": "/static/media/communication.f8bc4142.svg",
+    "static/media/covidtracker.97716ea4.png": "/static/media/covidtracker.97716ea4.png",
+    "static/media/encanchate.6e595974.svg": "/static/media/encanchate.6e595974.svg",
+    "static/media/firebase.ea1a2d66.svg": "/static/media/firebase.ea1a2d66.svg",
+    "static/media/leadership.e6929830.svg": "/static/media/leadership.e6929830.svg",
+    "static/media/linkedin.8f3ee2e4.svg": "/static/media/linkedin.8f3ee2e4.svg",
+    "static/media/mexicoencasa.6afb9e91.svg": "/static/media/mexicoencasa.6afb9e91.svg",
+    "static/media/netflix.e45b27b3.png": "/static/media/netflix.e45b27b3.png",
+    "static/media/nodejs.31d93e46.svg": "/static/media/nodejs.31d93e46.svg",
+    "static/media/proactive.aa798ff6.svg": "/static/media/proactive.aa798ff6.svg",
+    "static/media/problemsolving.d8f8e799.svg": "/static/media/problemsolving.d8f8e799.svg",
+    "static/media/react.e5936f0f.svg": "/static/media/react.e5936f0f.svg",
+    "static/media/teamplayer.9655c19b.svg": "/static/media/teamplayer.9655c19b.svg",
+    "static/media/whatsapp.f179709d.svg": "/static/media/whatsapp.f179709d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b02c80.js",
+    "static/js/2.c81f8de8.chunk.js",
+    "static/css/main.45348b7d.chunk.css",
+    "static/js/main.a59e9c0f.chunk.js"
+  ]
+}
