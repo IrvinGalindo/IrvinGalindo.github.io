@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.b0d4f7a9.chunk.css",
-    "main.js": "/portafolio/static/js/main.a59e9c0f.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.a59e9c0f.chunk.js.map",
+    "main.css": "/portafolio/static/css/main.e69cdf4f.chunk.css",
+    "main.js": "/portafolio/static/js/main.4f627826.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.4f627826.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.20c45fec.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.20c45fec.js.map",
     "static/js/2.c81f8de8.chunk.js": "/portafolio/static/js/2.c81f8de8.chunk.js",
@@ -10,10 +10,11 @@
     "static/js/3.a941cc15.chunk.js": "/portafolio/static/js/3.a941cc15.chunk.js",
     "static/js/3.a941cc15.chunk.js.map": "/portafolio/static/js/3.a941cc15.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "static/css/main.b0d4f7a9.chunk.css.map": "/portafolio/static/css/main.b0d4f7a9.chunk.css.map",
+    "static/css/main.e69cdf4f.chunk.css.map": "/portafolio/static/css/main.e69cdf4f.chunk.css.map",
     "static/js/2.c81f8de8.chunk.js.LICENSE.txt": "/portafolio/static/js/2.c81f8de8.chunk.js.LICENSE.txt",
     "static/media/analitical.27f5bf4f.svg": "/portafolio/static/media/analitical.27f5bf4f.svg",
     "static/media/angular.1fd4bbed.svg": "/portafolio/static/media/angular.1fd4bbed.svg",
+    "static/media/arrow-down.9f62d815.svg": "/portafolio/static/media/arrow-down.9f62d815.svg",
     "static/media/communication.f8bc4142.svg": "/portafolio/static/media/communication.f8bc4142.svg",
     "static/media/covidtracker.97716ea4.png": "/portafolio/static/media/covidtracker.97716ea4.png",
     "static/media/encanchate.6e595974.svg": "/portafolio/static/media/encanchate.6e595974.svg",
@@ -23,6 +24,7 @@
     "static/media/mexicoencasa.6afb9e91.svg": "/portafolio/static/media/mexicoencasa.6afb9e91.svg",
     "static/media/netflix.e45b27b3.png": "/portafolio/static/media/netflix.e45b27b3.png",
     "static/media/nodejs.31d93e46.svg": "/portafolio/static/media/nodejs.31d93e46.svg",
+    "static/media/plus.f4b7a3f1.svg": "/portafolio/static/media/plus.f4b7a3f1.svg",
     "static/media/proactive.aa798ff6.svg": "/portafolio/static/media/proactive.aa798ff6.svg",
     "static/media/problemsolving.d8f8e799.svg": "/portafolio/static/media/problemsolving.d8f8e799.svg",
     "static/media/react.e5936f0f.svg": "/portafolio/static/media/react.e5936f0f.svg",
@@ -32,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.20c45fec.js",
     "static/js/2.c81f8de8.chunk.js",
-    "static/css/main.b0d4f7a9.chunk.css",
-    "static/js/main.a59e9c0f.chunk.js"
+    "static/css/main.e69cdf4f.chunk.css",
+    "static/js/main.4f627826.chunk.js"
   ]
 }
